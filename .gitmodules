@@ -1,0 +1,6 @@
+[submodule "json"]
+	path = src/json
+	url = https://github.com/nlohmann/json
+[submodule "math_vector"]
+	path = src/math_vector
+	url = https://github.com/userexit/math_vector
